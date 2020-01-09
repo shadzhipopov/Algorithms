@@ -47,6 +47,10 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RecursivePermite.cs" />
+    <Compile Include="Trees\BinarySearchTree.cs" />
+    <Compile Include="Trees\BinaryTrees\BinaryTree.cs" />
+    <Compile Include="Trees\BinaryTrees\BinaryTreeNode.cs" />
+    <Compile Include="Trees\BinaryTrees\IBinaryTree.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
